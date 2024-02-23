@@ -1,9 +1,11 @@
-# JORNADA-AI-EBAC
-Em um curso de programação de redes neurais, meu desafio foi ensinar uma inteligência artificial a dominar o jogo do dinossauro da Google, o "DINO", em apenas oito dias. A experiência foi uma mistura de teoria e prática para fazer a IA aprender a reagir no momento certo para pular e evitar obstáculos.
 
-Começamos ajustando a rede neural para tomar decisões precisas de pulo no jogo. Ao longo do tempo, testemunhamos a evolução incrível da IA, passando de pulos simples para pulos ágeis e previsões impressionantes.
+# Desafio JORNADA-AI-EBAC 🚀
+Neste curso, mergulhamos na programação de redes neurais, com o desafio emocionante de desenvolver uma inteligência artificial capaz de dominar o jogo do dinossauro da Google, conhecido como "DINO". Esta jornada foi uma combinação envolvente de teoria e prática, onde aprendemos a fazer a IA reagir no momento preciso para pular e evitar obstáculos.
 
-No final, a IA alcançou um alto nível de habilidade no jogo, conseguindo pular no momento exato. Essa experiência não só demonstrou o poder das redes neurais, mas também abriu portas para explorar novas aplicações emocionantes da inteligência artificial em diferentes contextos desafiadores.
+Começamos ajustando a rede neural para que ela tomasse decisões precisas de pulo no jogo. Ao longo do processo, testemunhamos a incrível evolução da IA, que passou de simples pulos a movimentos ágeis e previsões impressionantes.
+
+Ao final do curso, a IA alcançou um alto nível de habilidade no jogo, conseguindo pular no momento exato. Esta experiência não apenas demonstrou o poder das redes neurais, mas também abriu portas para explorar novas e empolgantes aplicações da inteligência artificial em diversos contextos desafiadores.
+
 <details>
 <summary>**Certificado** 🎥 (Clique para expandir)</summary>
 
